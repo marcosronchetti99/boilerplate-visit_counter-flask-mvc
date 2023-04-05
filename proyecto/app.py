@@ -1,5 +1,5 @@
 from flask import Flask
-app = Flask(_name_)
+app = Flask(__name__)
 app.config['count_visitas'] = 0
 
 @app.route("/")
@@ -14,5 +14,5 @@ def version():
     v = '1.0'
     return v
 
-if _name_ == "_main_":
-    app.run()
+if __name__ == "__main__":
+    app.run()
