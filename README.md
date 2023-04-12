@@ -1,6 +1,6 @@
-# nuevo proyecto 
-## proyecto orientado a backend 
-### heramientas del proyecto
+# Nuevo proyecto 
+## Proyecto orientado a backend 
+### Herramientas del proyecto
 
 * visual estudio
 * thello 
