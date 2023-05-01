@@ -2,9 +2,9 @@
 ## Proyecto orientado a backend 
 ### Herramientas del proyecto
 
-* visual estudio
-* thello 
-* githud
+* Visual Atudio Code  
+* trello 
+* GitHub 
 
 ```
 from flask import Flask
